@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - C program that prints the 
+ * main - C program that prints the
  * size of various computer types
  * 64bit and 32bit respectively
  * Return: 0(Program ran successfully!)
