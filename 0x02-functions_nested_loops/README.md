@@ -1,4 +1,4 @@
-<h1> 0x02-functions_nested_loops <h1>
+<h1> 0x02-functions_nested_loops </h1>
 
 Write a program that prints _putchar, followed by a new line.
 Write a function that prints the alphabet, in lowercase, followed by a new line.
